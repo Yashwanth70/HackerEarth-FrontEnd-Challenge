@@ -4,7 +4,8 @@
     "description": "Creating a Shopping Cart Page using React & Redux.",
     "main": "./src/index.js",
     "scripts": {
-        "start": "webpack-dev-server"
+        "start": "webpack-dev-server",
+        "build": "webpack-dev-server"
     },
     "repository": "https://github.com/BatenkovT/Minimal-React.git",
     "keywords": [

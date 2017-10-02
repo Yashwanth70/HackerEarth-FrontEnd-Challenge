@@ -5,7 +5,7 @@
     "main": "./src/index.js",
     "scripts": {
         "start": "webpack-dev-server",
-        "build": "../package.json"
+        "build": "react-scripts build"
     },
     "repository": "https://github.com/BatenkovT/Minimal-React.git",
     "keywords": [
